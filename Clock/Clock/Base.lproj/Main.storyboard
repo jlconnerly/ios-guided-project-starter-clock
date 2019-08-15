@@ -25,8 +25,16 @@
                                     <constraint firstAttribute="width" secondItem="jfr-ci-cPi" secondAttribute="height" multiplier="1:1" id="DMK-Mi-XDg"/>
                                 </constraints>
                             </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="AnaClock" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kYf-ds-Y3K">
+                                <rect key="frame" x="121" y="136" width="172" height="100"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="NotoNastaliqUrdu" family="Noto Nastaliq Urdu" pointSize="40"/>
+                                <color key="textColor" red="0.65098039215686276" green="0.0" blue="0.69019607843137254" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="0.63723041960000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" red="0.16078431372549018" green="0.16078431372549018" blue="0.16078431372549018" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="tintColor" red="0.036480517794144803" green="0.0" blue="0.39395486918171529" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="jfr-ci-cPi" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.8" id="aNL-WD-aSC"/>
                             <constraint firstItem="jfr-ci-cPi" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="eRP-db-B0W"/>
